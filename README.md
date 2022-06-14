@@ -1,6 +1,6 @@
 - Hi, I’m @PeanutDumplings
-- I’m interested in Java development using the Spigot API
-- I’m currently learning C, C++ and C#
+- I enjoy playing Valorant and other games with my friends
+- Currently learning JavaScript, HTML and CSS
 
 
 
