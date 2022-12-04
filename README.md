@@ -1,10 +1,8 @@
-- Hi, I’m @PeanutDumplings
-- I enjoy playing Valorant and other games with my friends
-- Currently learning JavaScript, HTML and CSS
-
-
-
-<!---
-PeanutDumplings/PeanutDumplings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://github.com/WeLoveYouDuh">
+    <img src="https://lanyard.cnrad.dev/api/388858536521629706"/>
+</a><br><br>
+  <a href="https://github.com/WeLoveYouDuh">
+<img src="https://github-readme-stats.vercel.app/api?username=PeanutDumplings&show_icons=true&theme=dark">
+</a>
+</p>
